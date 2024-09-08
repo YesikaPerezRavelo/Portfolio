@@ -49,14 +49,10 @@ function Hero() {
             <img src={linkedinIcon} alt="LinkedIn icon" />
           </a>
         </span>
-        <p>
+        <p className={styles.description}>
           I am passionate about creating engaging and user-friendly web
           interfaces, and I am eager to apply my skills and experience as a
-          Front-End Developer. With a strong background in React, JavaScript,
-          and UI/UX design, I am excited to contribute to innovative projects
-          that prioritize both functionality and aesthetics. I am particularly
-          drawn to roles where I can continue to grow and refine my front-end
-          development skills while delivering high-quality user experiences.
+          Front-End Developer.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
