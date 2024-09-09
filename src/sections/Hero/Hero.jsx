@@ -37,7 +37,7 @@ function Hero() {
           <br />
           Perez Ravelo
         </h1>
-        <h2>Fronted Developer 38</h2>
+        <h2>Fronted Developer</h2>
         <span>
           <a href="https://github.com/YesikaPerezRavelo" target="_blank">
             <img src={githubIcon} alt="Github icon" />
